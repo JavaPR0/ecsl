@@ -31,7 +31,7 @@
 			<div class="flex h-16 shrink-0 items-center">
 				<img
 					class="h-8 w-auto"
-					src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=500"
+					src="https://th.bing.com/th/id/R.0113072a65bfc57d81ff01cc4be0c49f?rik=235B%2fzDtKVgJ4A&pid=ImgRaw&r=0"
 					alt="Your Company"
 				/>
 			</div>
